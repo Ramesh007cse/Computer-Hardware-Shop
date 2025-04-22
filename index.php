@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Find the best computer hardware including processors, graphics cards, and RAM at our shop. Competitive prices and great services.">
-    <meta property="og:title" content="Computer Hardware Shop">
+    <meta property="og:title" content="CompCare Online">
     <meta property="og:description" content="Shop for the best computer hardware including processors, RAM, graphics cards, and more.">
     <meta property="og:image" content="favicon.png">
     <meta property="og:url" content="https://yourwebsite.com">
-    <title>Computer Hardware Shop</title>
+    <title>CompCare Online</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <link rel="icon" type="image/png" href="favicon.png">
@@ -112,13 +112,13 @@
 </head>
 <body>
     <header class="bg-dark text-white text-center py-3">
-        <h1>Computer Hardware Shop</h1>
+        <h1>CompCare Online</h1>
     </header>
     
     <nav class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="chs.php">Hardware Shop</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="Home.php">
+            <a class="navbar-brand" href="chs.php">Computer Shop</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="index.php">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
